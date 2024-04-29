@@ -13,5 +13,8 @@ Fill in the search box the city name you are interested in. Enjoy the outcome in
 ## Contributing
 Youtube videos from "GreatStack" channel.
 
+## Licensing 
+Smirnova Ekaterina
+
 
 
